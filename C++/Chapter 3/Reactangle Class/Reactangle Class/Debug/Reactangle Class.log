@@ -1,0 +1,5 @@
+﻿  Rectangle.cpp
+  rectangleTest.cpp
+c:\users\21akendre\onedrive\compsci\c++\chapter 3\reactangle class\reactangle class\rectangletest.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Reactangle Class.vcxproj -> C:\Users\21akendre\OneDrive\CompSci\C++\Chapter 3\Reactangle Class\Debug\Reactangle Class.exe

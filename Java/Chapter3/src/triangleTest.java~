@@ -1,0 +1,17 @@
+
+public class triangleTest {
+	public static void main(String args[])
+	{
+		triangle t1 = new triangle(2, 6, 90);
+		triangle t2 = new triangle(2, 2, 2);
+		
+		if(t2.isRightTriangle() == true) System.out.println("Triangle t2 is a right triangle");
+		else System.out.println("Triangle t2 is NOT a right triangle");
+		
+		System.out.println("Triangle t2 perimeter: "+t2.perimeter());
+		System.out.println("Triangle t2 area: "+t2.area());
+		t2.toString();
+		
+		
+	}
+}
